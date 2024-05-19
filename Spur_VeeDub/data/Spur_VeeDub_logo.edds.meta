@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{B8A6BC0711D84F4B}Spur_VeeDub/data/Spur_VeeDub_logo.edds"
+ Author "spurgs-pc"
+ ChangeDate -580146920
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "Spur_VeeDub_logo.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}
